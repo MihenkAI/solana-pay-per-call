@@ -1,0 +1,403 @@
+{
+  "SOL": {
+    "symbol": "SOL",
+    "hours": 24,
+    "summary": {
+      "calls": 27,
+      "kols": 27,
+      "long": 23,
+      "short": 4,
+      "note": "snapshot of 8 Nov 2026; calls list trimmed to 10, scores removed"
+    },
+    "calls": [
+      {
+        "kol": "VioletViolet66",
+        "followers": 141887,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T08:27:00Z",
+        "post_url": "https://x.com/VioletViolet66/status/2119345986384626082",
+        "price_move_pct": {
+          "5m": 0.1,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "martiniguyyt",
+        "followers": 701050,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-08T07:24:00Z",
+        "post_url": "https://x.com/MartiniGuyYT/status/2119330227302338735",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": -0.1
+        }
+      },
+      {
+        "kol": "going4ward",
+        "followers": 28475,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T05:14:00Z",
+        "post_url": "https://x.com/going4ward/status/2119297606144630847",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": -0.2
+        }
+      },
+      {
+        "kol": "OguzCoskunlu",
+        "followers": 12004,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T04:42:00Z",
+        "post_url": "https://x.com/OguzCoskunlu/status/2119289344943161805",
+        "price_move_pct": {
+          "5m": -0.2,
+          "1h": 0.1
+        }
+      },
+      {
+        "kol": "L0cCapital",
+        "followers": 24103,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T04:18:00Z",
+        "post_url": "https://x.com/L0cCapital/status/2119283517209379136",
+        "price_move_pct": {
+          "5m": 0.1,
+          "1h": 0.1
+        }
+      },
+      {
+        "kol": "matthewbennett",
+        "followers": 90904,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T04:00:00Z",
+        "post_url": "https://x.com/matthewbennett/status/2119278773757673827",
+        "price_move_pct": {
+          "5m": 0.1,
+          "1h": 0.1
+        }
+      },
+      {
+        "kol": "xiaofeilong99",
+        "followers": 18072,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T02:39:00Z",
+        "post_url": "https://x.com/xiaofeilong99/status/2119258357274222691",
+        "price_move_pct": {
+          "5m": -0.1,
+          "1h": 0.2
+        }
+      },
+      {
+        "kol": "hellosuoha",
+        "followers": 187321,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T00:10:00Z",
+        "post_url": "https://x.com/hellosuoha/status/2119221054287843522",
+        "price_move_pct": {
+          "5m": -0.1,
+          "1h": -0.4,
+          "4h": -0.3
+        }
+      },
+      {
+        "kol": "bruca",
+        "followers": 219620,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-07T21:06:00Z",
+        "post_url": "https://x.com/bruca/status/2119174583538635260",
+        "price_move_pct": {
+          "5m": -0.2,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "HopiumPapi",
+        "followers": 133567,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-07T21:03:00Z",
+        "post_url": "https://x.com/HopiumPapi/status/2119173859693961531",
+        "price_move_pct": {
+          "5m": -0.2,
+          "1h": 0.1
+        }
+      }
+    ],
+    "price_move_note": "Price change after the post at 5m / 1h / 4h / 24h; a window appears once it has been measured.",
+    "note": "Independent measurement by Mihenk AI (mihenkai.com). Not investment advice."
+  },
+  "ZEC": {
+    "symbol": "ZEC",
+    "hours": 24,
+    "summary": {
+      "calls": 18,
+      "kols": 16,
+      "long": 9,
+      "short": 8,
+      "note": "snapshot of 8 Nov 2026; calls list trimmed to 10, scores removed"
+    },
+    "calls": [
+      {
+        "kol": "hirozaki2020",
+        "followers": 123527,
+        "mihenk_score": null,
+        "direction": "spot/mention",
+        "posted_at": "2026-11-08T10:37:00Z",
+        "post_url": "https://x.com/hirozaki2020/status/2119378805173202962",
+        "price_move_pct": {
+          "5m": 0.7
+        }
+      },
+      {
+        "kol": "Smart_Money",
+        "followers": 55611,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-08T06:52:00Z",
+        "post_url": "https://x.com/Smart_Money/status/2119322057796427931",
+        "price_move_pct": {
+          "5m": -0.1,
+          "1h": 0.5
+        }
+      },
+      {
+        "kol": "coachkcrypto",
+        "followers": 132108,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T03:52:00Z",
+        "post_url": "https://x.com/Coachkcrypto/status/2119276848521662540",
+        "price_move_pct": {
+          "5m": -0.1
+        }
+      },
+      {
+        "kol": "ThinkingBitmex",
+        "followers": 92963,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T03:18:00Z",
+        "post_url": "https://x.com/ThinkingBitmex/status/2119268211661439117",
+        "price_move_pct": {
+          "5m": -0.3,
+          "1h": -0.2
+        }
+      },
+      {
+        "kol": "trader1sz",
+        "followers": 693609,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-08T01:33:00Z",
+        "post_url": "https://x.com/trader1sz/status/2119241784618565768",
+        "price_move_pct": {
+          "5m": -0.1,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "DucCryptoX",
+        "followers": 33241,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T00:46:00Z",
+        "post_url": "https://x.com/DucCryptoX/status/2119229916990554404",
+        "price_move_pct": {
+          "5m": 0.2,
+          "1h": -0.5
+        }
+      },
+      {
+        "kol": "eliz883",
+        "followers": 607732,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-07T22:50:00Z",
+        "post_url": "https://x.com/eliz883/status/2119200931313291679",
+        "price_move_pct": {
+          "5m": -0.1
+        }
+      },
+      {
+        "kol": "0xTraderSam",
+        "followers": 12549,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-07T21:10:00Z",
+        "post_url": "https://x.com/0xTraderSam/status/2119175750205280343",
+        "price_move_pct": {
+          "5m": -0.2,
+          "1h": 0.2
+        }
+      },
+      {
+        "kol": "trader1sz",
+        "followers": 693609,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-07T17:49:00Z",
+        "post_url": "https://x.com/trader1sz/status/2119125080919650340",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0.5
+        }
+      },
+      {
+        "kol": "aliyuWagmee",
+        "followers": 5131,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-07T16:57:00Z",
+        "post_url": "https://x.com/aliyuWagmee/status/2119112108206092360",
+        "price_move_pct": {
+          "5m": 0.1,
+          "1h": 0.2
+        }
+      }
+    ],
+    "price_move_note": "Price change after the post at 5m / 1h / 4h / 24h; a window appears once it has been measured.",
+    "note": "Independent measurement by Mihenk AI (mihenkai.com). Not investment advice."
+  },
+  "BTC": {
+    "symbol": "BTC",
+    "hours": 24,
+    "summary": {
+      "calls": 50,
+      "kols": 50,
+      "long": 43,
+      "short": 7,
+      "note": "snapshot of 8 Nov 2026; calls list trimmed to 10, scores removed"
+    },
+    "calls": [
+      {
+        "kol": "Bitebishuqin",
+        "followers": 24110,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T10:41:00Z",
+        "post_url": "https://x.com/Bitebishuqin/status/2119379684287009210",
+        "price_move_pct": {
+          "5m": 0.1
+        }
+      },
+      {
+        "kol": "TedPillows",
+        "followers": 322520,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T10:03:00Z",
+        "post_url": "https://x.com/TedPillows/status/2119370248960778728",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0.1
+        }
+      },
+      {
+        "kol": "CredibleCrypto",
+        "followers": 481655,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T09:53:00Z",
+        "post_url": "https://x.com/CredibleCrypto/status/2119367702485901614",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": -0.1
+        }
+      },
+      {
+        "kol": "LennaertSnyder",
+        "followers": 40022,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T09:21:00Z",
+        "post_url": "https://x.com/LennaertSnyder/status/2119359768120676427",
+        "price_move_pct": {
+          "5m": 0
+        }
+      },
+      {
+        "kol": "KookCapitalLLC",
+        "followers": 184567,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T09:18:00Z",
+        "post_url": "https://x.com/KookCapitalLLC/status/2119358780102328626",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": -0.1
+        }
+      },
+      {
+        "kol": "tekinogludogu",
+        "followers": 270437,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T09:16:00Z",
+        "post_url": "https://x.com/TekinogluDogu/status/2119358326026764527",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "Stefan_B_Trades",
+        "followers": 33123,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T09:09:00Z",
+        "post_url": "https://x.com/Stefan_B_Trades/status/2119356736725238086",
+        "price_move_pct": {
+          "5m": -0.1,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "BTCTW0",
+        "followers": 20812,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T08:59:00Z",
+        "post_url": "https://x.com/BTCTW0/status/2119354166753853815",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "TATrader_Alan",
+        "followers": 76591,
+        "mihenk_score": null,
+        "direction": "long",
+        "posted_at": "2026-11-08T08:56:00Z",
+        "post_url": "https://x.com/TATrader_Alan/status/2119353236952060280",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0
+        }
+      },
+      {
+        "kol": "CryptoTheBossX",
+        "followers": 57191,
+        "mihenk_score": null,
+        "direction": "short",
+        "posted_at": "2026-11-08T08:47:00Z",
+        "post_url": "https://x.com/CryptoTheBossX/status/2119351198696276345",
+        "price_move_pct": {
+          "5m": 0,
+          "1h": 0
+        }
+      }
+    ],
+    "price_move_note": "Price change after the post at 5m / 1h / 4h / 24h; a window appears once it has been measured.",
+    "note": "Independent measurement by Mihenk AI (mihenkai.com). Not investment advice."
+  }
+}
